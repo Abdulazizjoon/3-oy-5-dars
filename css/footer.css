@@ -1,7 +1,18 @@
 .footer_container{
-    display: flex;
+    /* display: flex; */
     background-color: var( --black-color);
     width: 1518px;
     height: 393px;
     margin-top: 385px;
+}
+.tooop{
+    color: #fff;
+    opacity: 50%;
+    margin-left: 165px;
+}
+.footer_tiziq{
+    width: 1111px;
+    height: 1px;
+    background-color: #707070;
+    margin-right: 100px;
 }
