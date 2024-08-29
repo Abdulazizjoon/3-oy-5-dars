@@ -1,0 +1,7 @@
+.footer_container{
+    display: flex;
+    background-color: var( --black-color);
+    width: 1518px;
+    height: 393px;
+    margin-top: 385px;
+}

@@ -1,0 +1,101 @@
+.main_container{
+    width: 1111px;
+    height: 640px;
+    background-image: url(../img/home/desktop/Group64Copy.png);
+    color: #fff;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 160px;
+}
+.main_p h1{
+    max-width:540px;
+    padding-top: 145px;
+    height:165px;
+    margin-bottom: 11px;
+    font-size: 4.8rem;
+    line-height: 4.8rem;
+    padding-left: 95px;
+    width: 100%;
+}
+.main_p p{
+    margin-top:200px;
+    width: 445px;
+    height: 78px;
+    margin-bottom: 40px;
+    font-weight: 400;
+    line-height: 2.6rem;
+    margin-left: 95px;
+}
+.main_p button{
+    width: 152px;
+    height: 56px;
+    background-color: #fff;
+    color: var(--black-color);
+    border: 0px;
+    border-radius:5px;
+    cursor: pointer;
+    margin-left: 95px;
+}
+.design_comp{
+    background-image:url(../img/home/desktop/image-web-design-large.jpg);
+    width: 541px;
+    height: 640px;
+    border-radius: 5px;
+    color: #fff;
+}
+.design_comp p{
+    padding-top: 273px;
+    margin-left:137px;
+    width: 266px;
+    height: 48px;
+    font-size: 4.0rem;
+    line-height: 4.8rem;
+    letter-spacing: 2px;
+    margin-bottom:68px;
+}
+.design_comp a{
+    display: flex;
+    gap: 21px;
+    color: #fff;
+    width: 210px;
+    height: 22px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 2.1rem;
+    letter-spacing: 5px;
+    margin-left: 172px;
+}
+.design_container{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 160px;
+}
+.app_design{
+    background-image: url(../img/home/desktop/image-app-design.jpg);
+    width: 541px;
+    height: 308px;
+    color: #fff;
+    margin-bottom:24px;
+    border-radius: 5px;
+}
+.app_design p{
+    width:400px;
+    height: 48px;
+    font-size: 4.0rem;
+    font-weight: 500;
+    line-height: 4.8rem;
+    letter-spacing: 2px;
+    padding-top:107px;
+    padding-left: 144px;
+}
+.app_design a{
+    color: #fff;
+    margin-top:64px;
+    margin-left: 172px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 2.1rem;
+    letter-spacing: 5px;
+    display: flex;
+    width: 200px;
+}

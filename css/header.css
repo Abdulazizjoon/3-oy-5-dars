@@ -1,0 +1,27 @@
+.header{
+    padding-top: 6.4rem;
+    padding-bottom: 6.7rem;
+}
+#active {
+    color: var(--peach-color);
+}
+.header_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sitenav_list{
+    display: flex;
+    align-items: center;
+    gap: 4.2rem;
+}
+.sitenav-link{
+    color: var(--dark-gray-color);
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: all 0.5s;
+}
+.sitenav-link:hover{
+    color: var(--peach-color);
+}
