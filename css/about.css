@@ -1,3 +1,5 @@
+@import url(./position.css);
+@import url(./footer.css);
 .abbout_us{
     background-color: var(--peach-color);
     background-image: url(../img/about/desktop/bg-pattern-hero-about-desktop.svg);
