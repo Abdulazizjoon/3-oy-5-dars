@@ -9,10 +9,16 @@
     color: #fff;
     opacity: 50%;
     margin-left: 165px;
+    display: flex;
 }
-.footer_tiziq{
+.tiziq_footer{
     width: 1111px;
-    height: 1px;
     background-color: #707070;
-    margin-right: 100px;
+    height: 1px;
+    margin-left: 180px;
+    margin-top: 40px;
+    margin-bottom: 31px;
+}
+.ofice p{
+    line-height: 26px;
 }
