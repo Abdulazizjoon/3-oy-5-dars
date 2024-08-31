@@ -1,0 +1,38 @@
+.main_right{
+    display: flex;
+    gap: 30px;
+    background-color:#fdf3f0;
+    background-image: url(../img/locations/desktop/Oval\ Copy\ 5.svg);
+    background-repeat: no-repeat;
+    width: 730px;
+    height: 326px;
+    padding-top: 88px;
+    padding-left: 95px;
+    border-radius: 20px;
+}
+.design{
+    color: #333136;
+    width: 255px;
+    height: 78px;
+    line-height: 26px;
+}
+.design h2{
+    font-size:40px;
+    margin-bottom:24px;
+    color: #E7816B;
+}
+.contakt{
+    margin-top: 50px;
+    line-height: 24px;
+}
+.canada_container{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 32PX;
+}
+.main_left img{
+    cursor: pointer;
+    border-radius: 20px;
+    width: 350px;
+    height: 326px;
+}
