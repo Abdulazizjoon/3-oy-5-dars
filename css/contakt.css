@@ -1,0 +1,53 @@
+.contakt_uc h2{
+    width: 540px;
+    height: 38px;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 48px;
+    margin-bottom: 32px;
+    margin-top: 135px;
+    margin-left: 95px;
+}
+.conatkt_container{
+    display: flex;
+    background-color: #E7816B;
+    background-image: url(../img/contact/desktop/bg-pattern-hero-desktop.svg);
+    background-repeat: no-repeat;
+    width: 1111px;
+    height: 480px;
+    color: #fff;
+}
+.contakt_uc p{
+    width: 445px;
+    height: 104px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 95px;
+}
+.input_bir{
+    color: #fff;
+}
+.input_bir input{
+    margin-top: 55px;
+}
+input{
+    width: 380px;
+    height: 38px;
+    border: 0px;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 25px;
+    color: #fff;
+    background-color: #E7816B;
+}
+.input_tort input{
+    height: 102px;
+}
+.form button{
+    width: 152px;
+    height: 56px;
+    cursor: pointer;
+    margin-left: 228px;
+    background-color: #fff;
+    border: 0px;
+    border-radius: 10px;
+}
