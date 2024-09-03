@@ -1,0 +1,19 @@
+.web_main{
+    height: 252px;
+    background-color: #E7816B;
+    padding-top: 64px;
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/app-design/desktop/bg-pattern-intro-app.svg);
+    border-radius: 10px;
+    margin-bottom: 160px;
+}
+.web_main h2{
+    font-size:48px;
+    margin-bottom: 24px;
+    line-height:48px;
+}
+.web_main p{
+    width: 430px;
+    margin-left: 400px;
+}
