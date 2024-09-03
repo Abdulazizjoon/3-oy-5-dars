@@ -17,3 +17,30 @@
     width: 430px;
     margin-left: 400px;
 }
+.web_card{
+    width: 350px;
+    height: 478px;
+    background-color: #fdf3f0;
+    border-radius: 10px;
+}
+.web_card img{
+    width: 350px;
+    height: 320px;
+    margin-bottom: 32px;
+}
+.web_card h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 5px;
+    color:  #E7816B;
+    margin-bottom: 16px;
+    margin-left: 120px;
+}
+.web_card p{
+    width: 286px;
+    height: 52px;
+    color: #333136;
+    text-align: center;
+    margin-left:35px;
+}
