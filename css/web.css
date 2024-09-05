@@ -44,3 +44,69 @@
     text-align: center;
     margin-left:35px;
 }
+.web_cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+.top_header{
+    display: flex;
+    margin-top: 160px;
+    gap: 30px;
+}
+.ap_design{
+    background-image: url(../img/home/desktop/image-app-design.jpg);
+    width: 541px;
+    height: 308px;
+    color: #fff;
+    border-radius: 5px;
+}
+.ap_designn{
+    background-image: url(../img/new/Bitmap.png);
+    width: 541px;
+    height: 308px;
+    color: #fff;
+    border-radius: 5px;
+}
+.ap_design p{
+    width: 400px;
+    height: 48px;
+    font-size: 4.0rem;
+    font-weight: 500;
+    line-height: 4.8rem;
+    letter-spacing: 2px;
+    padding-top: 107px;
+    padding-left: 144px;
+}
+.ap_designn p{
+    width: 400px;
+    height: 48px;
+    font-size: 4.0rem;
+    font-weight: 500;
+    line-height: 4.8rem;
+    letter-spacing: 2px;
+    padding-top: 107px;
+    padding-left: 144px;
+}
+.ap_design a{
+    color: #fff;
+    margin-top: 64px;
+    margin-left: 172px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 2.1rem;
+    letter-spacing: 5px;
+    display: flex;
+    width: 200px;
+}
+.ap_designn a{
+    color: #fff;
+    margin-top: 64px;
+    margin-left: 172px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 2.1rem;
+    letter-spacing: 5px;
+    display: flex;
+    width: 200px;
+}
