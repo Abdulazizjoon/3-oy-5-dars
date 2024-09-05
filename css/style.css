@@ -11,6 +11,7 @@
 @import url(./web.css);
 @import url(./app-design.css);
 @import url(./graphik.css);
+@import url(./404.css);
 *{
     margin: 0;
     padding: 0;
